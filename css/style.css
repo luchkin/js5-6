@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    margin: auto;
+    width: 700px;
+    height: 150px;
+}
+
+
+.clock {
+    background-color: black;
+    font-size: 130px;
+    color: #eee;
+    width: 700px;
+    height: 150px;
+    border: 1px solid #000000;
+    border-radius: 25px;
+    padding: 15px;
+}
+.button-success {
+    background: rgb(28, 184, 65); /* это зелёный */
+    font-size:15px;
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    float: right;
+}
+
+.button-error {
+    background: rgb(202, 60, 60); /* это тёмно-бордовый */
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    float: left;
+}
